@@ -141,12 +141,12 @@ body {
 }
 /* From Uiverse.io by SujitAdroja */ 
 .btn1 {
-  color: #b85300;
+  color: #ff0000;
   text-transform: uppercase;
   text-decoration: none;
   border: 2px solid #b85300;
   padding: 10px 20px;
-  font-size: 12px;
+  font-size: 20px;
  cursor: pointer;
   font-weight: bold;
   background: transparent;
@@ -157,7 +157,7 @@ body {
 
 .btn1:hover {
   color: white;
-  background-color: #b85300;
+  background-color: #ff0000;
 }
 
 .btn1:hover::before {
