@@ -43,6 +43,7 @@ export default function VideoPlayer() {
 
   return (
     <div>
+      
       <div id="youtubeVideo" className="video-background"></div>
 
       <div className="video-overlay">

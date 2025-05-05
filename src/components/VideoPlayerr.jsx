@@ -43,8 +43,9 @@ export default function VideoPlayer() {
 
   return (
     <div>
+      
       <div id="youtubeVideo" className="video-background"></div>
-
+      
       <div className="video-overlay">
         <h1>Kaizen</h1>
         <p>
